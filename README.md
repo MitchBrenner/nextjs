@@ -47,3 +47,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
     ```
 - Sanity's live content API
 - add `<SanityLive />` to `page.tsx` to render live data
+
+### Dynamic Routes
+
+- use square brackets in directory name ex: [id]
+- destructure params to get id
+
+### Markdown it
+
+- used to convert markdown into a string
+- [link](https://www.npmjs.com/package/markdown-it)
